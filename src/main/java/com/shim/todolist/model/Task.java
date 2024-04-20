@@ -15,7 +15,7 @@ public class Task {
 	private String title;
 	private String url;
 		
-	public void Task() {
+	public Task() {
 			
 	}
 
