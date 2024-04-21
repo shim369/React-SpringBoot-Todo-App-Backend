@@ -1,5 +1,7 @@
 package com.shim.todolist.service;
 
-public interface TaskService {
+import com.shim.todolist.model.Task;
 
+public interface TaskService {
+	public Task saveTask(Task task);
 }
